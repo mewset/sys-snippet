@@ -12,7 +12,7 @@ A minimal CLI tool that prints system info in your terminal or generates a ready
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/sys-snippet.git
+git clone https://github.com/mewset/sys-snippet.git
 cd sys-snippet
 pip install .
 ```
