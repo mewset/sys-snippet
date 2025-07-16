@@ -9,7 +9,7 @@ setup(
             'sys-snippet = sys_snippet:main',
         ],
     },
-    author='Your Name',
+    author='Mattias mewset Andersson',
     description='Minimal CLI to display system info in terminal or as ready-to-paste README markdown.',
     classifiers=[
         'Programming Language :: Python :: 3',
